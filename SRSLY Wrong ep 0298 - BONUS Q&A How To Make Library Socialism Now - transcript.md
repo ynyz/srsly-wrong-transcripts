@@ -35,7 +35,8 @@ S: There we go!
 
 —🔉 sound of pressing play button on tape player—
 
-- - -
+- - -[SRSLY Wrong ep 0298 - BONUS Q&A How To Make Library Socialism Now - transcript.md](https://github.com/ynyz/srsly-transcripts/files/13528307/SRSLY.Wrong.ep.0298.-.BONUS.Q.A.How.To.Make.Library.Socialism.Now.-.transcript.md)
+
 
 0:01:20
 
