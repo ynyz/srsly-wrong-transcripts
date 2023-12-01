@@ -70,7 +70,7 @@ A: Yeah, a lot of the time when people get asked this question, they're like "oh
 
 S: cowards
 
-A&S: 😄
+A&S: 😄 (laughing)
 
 A: Yeah, cowards. uhh people... WE can predict the future. I don't know why you think you can't, but you probably could. All you have to do is prepare for every single possible contingency in a branching web of if this then that if that then this the lasts for, uh, however, long it takes,
 
@@ -377,8 +377,8 @@ S: Yeah. And the typical application of marginal utility, the question I think w
 A: 🙂
 S: Um...
 A: taking a thousand dollars?... anyways who cares?
-S: 😄
-A: 😄
+S: 😄 (laughing)
+A: 😄 (laughing)
 
 A: So moving on to another question: "What is this strategic benefit to being a library socialist, rather than an anarchist or a marxist, etc? Do we really need more ways to split people up?"
 
@@ -464,10 +464,10 @@ S: just until they're ready
 
 S: Do you think your friend who wants to use the lending library is going to be like "oh great i trust you guys. Well, nice to meet you."
 
-A: Yeah. Or they'll be like well maybe i'll just buy my own drill.
+A: Yeah. Or they'll be like well maybe I'll just buy my own drill.
 
-S:😆
-A:😆
+S:😆 (laughing)
+A:😆 (laughing)
 
 S: Okay. s- Um... yeah there's so much more to say here and another things it but we're, we are out of time. We went overtime. We've got more questions that we wanted to tackle, so we're going to do a part two.
 
