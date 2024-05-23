@@ -1,4 +1,4 @@
-transcriptions for episodes of the ·Srsly Wrong· podcast.
+this is a page for transcriptions for episodes of the ·Srsly Wrong· podcast.
 
 some episodes may be rough autotranscriptions that need further refining to be fit for official release.
 
