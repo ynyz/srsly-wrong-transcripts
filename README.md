@@ -8,4 +8,4 @@ check the status of transcripts in the online spreadsheet: [Google Slides - Srsl
 
 the final versions of transcripts can be found at https://srslywrong.com/transcripts/
 
-leave a comment if you have any thoughts, questions, tips for maintaining a GitHub repo, or just want to contact me.
+leave a comment if you have any thoughts, questions, tips, or just want to contact me.
