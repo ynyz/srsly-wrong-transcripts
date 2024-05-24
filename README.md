@@ -6,7 +6,7 @@ some files may be auto-transcriptions that are rough, un-screened, or low qualit
 
 common things that need fixing include punctuation, spelling, capitalization of proper nouns, paragraph parsing, speaker identification, noting sound effects and music, etc.
 
-check the status of transcripts in the online spreadsheet: [Google Slides - Srsly Wrong Transcript Status Spreadsheet](https://docs.google.com/spreadsheets/d/1NZRCbGlVOYUe-U29SthfSbojiDl4q_13pikidC31nxw/edit?usp=sharing)
+you can leave comments and check the status of transcripts in the online spreadsheet: [Google Slides - Srsly Wrong Transcript Status Spreadsheet](https://docs.google.com/spreadsheets/d/1NZRCbGlVOYUe-U29SthfSbojiDl4q_13pikidC31nxw/edit?usp=sharing)
 
 the final versions of transcripts can be found at https://srslywrong.com/transcripts/
 
