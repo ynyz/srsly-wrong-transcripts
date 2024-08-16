@@ -1,5 +1,6 @@
 note:
-this project is on hold for a moment as I try to find a new way to automate transcription. If you have any tips, send a comment! :)
+this project is on hold for a moment as I try to find a new way to automate transcription. If you have any tips on good free software, send a comment! :)
+if you have a transcription that still needs a little work, or one that is close to complete, feel free to add it or lmk.
 
 # What's this about?
 
