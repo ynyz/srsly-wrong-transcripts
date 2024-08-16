@@ -1,3 +1,6 @@
+note:
+this project is on hold for a moment as I try to find a new way to automate transcription. If you have any tips, send a comment! :)
+
 # What's this about?
 
 this is a working page for organizing episode transcriptions for the ·[Srsly Wrong](https://srslywrong.com/)· podcast.
